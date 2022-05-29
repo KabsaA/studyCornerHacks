@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=sans-serif:300);
+
+.textfield{
+  background-color: #7afcff;
+  width: 380px !important;
+}
+
+.textfields{
+  background-color: #ffb6c1;
+  width: 380px !important;
+}
+
+.textfieldc{
+  background-color: #feff9c;
+  width: 380px !important;
+}
